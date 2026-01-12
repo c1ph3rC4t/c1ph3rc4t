@@ -1,14 +1,13 @@
 # Hai, I'm c1ph3rC4t
 ## About me
-- Stupid
 - I make computer go beep boop
 - Rust is my favorite programming language
 
-<a href="https://discord.com/users/1237141750661775363">
+<!--<a href="https://discord.com/users/1237141750661775363">
   <img align="center" src="https://lanyard-profile-readme.vercel.app/api/1237141750661775363?theme=dark&bg=2E3440&borderRadius=6px&animated=true&showDisplayName=true&hideDecoration=false&hideBadges=true&hideProfile=false&hideStatus=false&hideSpotify=true" />
 </a>
 
----
+----->
 ## Operating systems I use
 <a href="https://archlinux.org/"><img src="https://raw.githubusercontent.com/c1ph3rC4t/c1ph3rc4t/refs/heads/main/assets/archlinux.svg" alt="ArchLinux (btw)" width="30px" /></a>
 <a href="https://nixos.org/"><img src="https://raw.githubusercontent.com/c1ph3rC4t/c1ph3rc4t/refs/heads/main/assets/nixos.svg" alt="NixOS" width="30px" /></a>
