@@ -21,4 +21,4 @@
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://raw.githubusercontent.com/c1ph3rC4t/c1ph3rc4t/refs/heads/main/assets/bash.svg" title="Bash" width="30px" /></a>
 
 ## Languages I want to learn
-<a href="https://www.haskell.org/"><img src="https://raw.githubusercontent.com/c1ph3rC4t/c1ph3rc4t/refs/heads/main/assets/haskell.svg" title="Haskell" width="30px" /></a>
+<a href="https://www.haskell.org/"><img src="https://raw.githubusercontent.com/c1ph3rC4t/c1ph3rc4t/refs/heads/main/assets/haskell.svg" title="Haskell (the most functional of them all)" width="30px" /></a>
