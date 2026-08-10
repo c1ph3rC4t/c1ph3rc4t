@@ -14,12 +14,12 @@
 ## Operating systems I use
 
 <a href="https://archlinux.org/"><img src="https://raw.githubusercontent.com/c1ph3rC4t/c1ph3rc4t/refs/heads/main/assets/archlinux.svg" title="ArchLinux (Btw)" width="30px" /></a>
-<a href="https://nixos.org/"><img src="https://raw.githubusercontent.com/c1ph3rC4t/c1ph3rc4t/refs/heads/main/assets/nixos.svg" title="NixOS (One config to rule them all)" width="30px" /></a>
-<a href="https://www.apple.com/os/macos/"><img src="https://raw.githubusercontent.com/c1ph3rC4t/c1ph3rc4t/refs/heads/main/assets/macos.svg" title="MacOS (I didn't buy this, someone bought it for me)" width="30px" /></a>
 
 ## Operating systems I have used
 
+<a href="https://nixos.org/"><img src="https://raw.githubusercontent.com/c1ph3rC4t/c1ph3rc4t/refs/heads/main/assets/nixos.svg" title="NixOS (One config to rule them all)" width="30px" /></a>
 <a href="https://www.kali.org/"><img src="https://raw.githubusercontent.com/c1ph3rC4t/c1ph3rc4t/refs/heads/main/assets/kalilinux.svg" title="KaliLinux (What one DEF CON talk does to a person)" width="30px" /></a>
+<a href="https://www.apple.com/os/macos/"><img src="https://raw.githubusercontent.com/c1ph3rC4t/c1ph3rc4t/refs/heads/main/assets/macos.svg" title="MacOS (I didn't buy this, someone bought it for me)" width="30px" /></a>
 <a href="https://binbows.net/"><img src="https://raw.githubusercontent.com/c1ph3rC4t/c1ph3rc4t/refs/heads/main/assets/windows.svg" title="Windows 11 (Built on reboots, hopes, dreams and shitty code)" width="30px" /></a>
 
 ## Languages I know
